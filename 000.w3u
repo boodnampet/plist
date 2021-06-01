@@ -6,7 +6,7 @@
 #"image": "https://developer.android.com/guide/practices/ui_guidelines/images/Single_Icon_Pickup_Drop_01_2x_ext.gif",
 #"image": "https://media3.giphy.com/media/KBQ1GymBzJkHLeqBeQ/giphy.gif",
 "image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/dragon_gang.png",
-"url": "https://raw.githubusercontent.com/boodnampet/w3u/main/000.w3u",
+"url": "https://raw.githubusercontent.com/boodnampet/playlist/main/000.w3u?token=ARVRR55334JETVYI2XKZYMTAWXHUO",
 
 "groups": [
 {
@@ -53,27 +53,7 @@
 "image": "https://www.jing.fm/clipimg/full/99-991505_green-network-icon-png.png",
 "url": "https://raw.githubusercontent.com/boodnampet/w3u/main/link.w3u"
 },
-{
-"name": "     Good TV1 m3u",
-"image": "https://lh3.googleusercontent.com/proxy/yQTXA6bk090h3RC6scGLhwD3Onn1av4mR7ipozoLVUtKB-sOMf0SUx0GecMPCmZBbTVYbn65g3kJubF8HshbvvDm9vsKvXb-QmmPFV_U2MNesDJTfYtAMBRI1w",
-"url": "https://raw.githubusercontent.com/boodnampet/w3u/main/goodtv.m3u"
-},
-{
-"name": "       Good TV w3u",
-"image": "https://lh3.googleusercontent.com/proxy/yQTXA6bk090h3RC6scGLhwD3Onn1av4mR7ipozoLVUtKB-sOMf0SUx0GecMPCmZBbTVYbn65g3kJubF8HshbvvDm9vsKvXb-QmmPFV_U2MNesDJTfYtAMBRI1w",
-"url": "https://raw.githubusercontent.com/boodnampet/w3u/main/goodtv.w3u"
-},
-{
-"name": "             Tools",
-"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/tools.png",
-"url": "https://raw.githubusercontent.com/boodnampet/w3u/main/pssa.txt"
-},
-{
-"name": "      Baphomet",
-"image": "https://archive.org/download/IconLogo_201903/icon%20logo.png",
-#"url": "https://raw.githubusercontent.com/boodnampet/w3u/main/android-share.txt"
-"url": "https://squidmantv.lfctv.online/baphoplus/main.m3u8?user=iptv.wiseplay2021@gmail.com&pass=7fdcd7"
-},
+
 
 ]
 }
