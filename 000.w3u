@@ -2,32 +2,30 @@
 "name": "My Playlist",
 "author": "Dragon Gang",
 "contact": "boodnampet@gmail.com",
-"info": "NO distribution .. please",
-"image": "https://raw.githubusercontent.com/boodnampet/playlist/main/logo/dragon_gang.png",
-#"url": "https://raw.githubusercontent.com/boodnampet/playlist/main/000.w3u?token=ARVRR56GSLYUHAMCVQP4SPDAWXRE4",
-#"url": "https://drive.google.com/uc?id=1oCge3Aaayu_-ksQV-hfvwNmJMS8kfIgZ",
+#"image": "https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/512x512/plain/tv.png",
+#"image": "https://developer.android.com/guide/practices/ui_guidelines/images/Single_Icon_Pickup_Drop_01_2x_ext.gif",
+#"image": "https://media3.giphy.com/media/KBQ1GymBzJkHLeqBeQ/giphy.gif",
+"image": "https://raw.githubusercontent.com/boodnampet/w3u/main/logo/dragon_gang.png",
+"url": "https://raw.githubusercontent.com/boodnampet/w3u/main/000.w3u",
 
 "groups": [
 {
 "name": "     Digital TV THAI",
 "image": "https://www.techhub.in.th/wp-content/uploads/2015/11/tv-digital.jpg",
-"url": "https://github.com/boodnampet/playlist/raw/main/001.w3u"
+"url": "https://raw.githubusercontent.com/boodnampet/w3u/main/001.w3u"
 },
 {
 "name": "       Documentary",
 "image": "https://cdn0.iconfinder.com/data/icons/videographer-filmmaker-and-cameraman/224/filming-001-512.png",
-"url": "https://github.com/boodnampet/playlist/raw/main/002.w3u"
+"url": "https://raw.githubusercontent.com/boodnampet/w3u/main/002.w3u"
 },
 {
 "name": "      Entertainment",
 "image": "https://www.gpcom.com/wp-content/uploads/2019/08/The-Movie-Channel-Logo-200.png",
 "url": "https://raw.githubusercontent.com/boodnampet/w3u/main/003.w3u"
 },
-{
-"name": "              News",
-"image": "https://thumbs.dreamstime.com/b/breaking-news-world-map-backgorund-modern-concept-tv-design-117449150.jpg",
-"url": "https://iptv-org.github.io/iptv/categories/news.m3u"
-},
+
+/*
 {
 "name": "   Android App Free",
 "image": "https://www.freepnglogos.com/uploads/android-logo-png/android-logo-android-applications-android-authority-6.png",
@@ -53,6 +51,7 @@
 "url": "https://raw.githubusercontent.com/boodnampet/w3u/main/link.w3u"
 },
 
+*/
 
 ]
 }
